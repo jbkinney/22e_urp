@@ -1,13 +1,12 @@
-# URP 2021 Programming Course
-
+# URP 2022 Programming Course
 
 ## Schedule
 
-1. (Tuesday, 6/29) Python, Jupyter Notebooks, and Data Types - Julia
-2. (Thursday, 7/1) Flow Control - Shaina
-3. (Tuesday, 7/6) Datasets - Ben
-4. (Thursday, 7/8) Visualization - Amber
-5. (Tuesday, 7/13) Statistics - Ben
-6. (Thursday, 7/15) Genomics (RNAseq) - Ben
-7. (Tuesday, 7/20) Machine Learning 1 - Shaina (scikit-learn)
-8. (Thursday, 7/22) Machine Learning 2 - Amber (tensorflow)
+1. **Python, Command Line, and Notebooks.** (Justin) Wednesday, June 8, 4pm, Samet Conference Room
+2. **Data Types and Flow Control.** (CiCi) Friday, June 10, 3pm, James Library
+3. **Datasets and Statistics.** (Amber) Friday, June 24, 3pm, James Library
+4. **Visualization.** (Julia) Monday, June 27, 3pm, James Library
+5. **Machine Learning.** (Amber) Wednesday, June 29,  4pm, Samet Conference Room
+6. **Image Data Analysis.** (CiCi) Friday, July 1,  3pm, Samet Conference Room
+7. **Neural Data Analysis.**  (Julia) Wednesday, July 6, 3pm, James Library
+8. **Genomic Data Analysis.** (TBD) Friday, July 8, 3pm, James Library
