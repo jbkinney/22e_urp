@@ -11,6 +11,7 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 - Julia Wang (julwang@cshl.edu)
 - Ziqi (Amber) Tang (ztang@cshl.edu)
 - Xingyu (CiCi) Zheng (xinzheng@cshl.edu)
+- Michael Passalacqua (passala@cshl.edu)
 
 ## Schedule
 
@@ -21,4 +22,4 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 5. **Machine Learning.** (Amber) Wednesday, June 29,  4pm, Samet Conference Room
 6. **Image Data Analysis.** (CiCi) Friday, July 1,  3pm, Samet Conference Room
 7. **Neural Data Analysis.**  (Julia) Wednesday, July 6, 3pm, James Library
-8. **Genomic Data Analysis.** (TBD) Friday, July 8, 3pm, James Library
+8. **Genomic Data Analysis.** (Michael) Friday, July 8, 3pm, James Library
