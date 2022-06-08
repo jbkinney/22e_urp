@@ -14,7 +14,7 @@ In this course we will be using Jupyter notebooks. These notebooks will have a m
 - Michael Passalacqua (passala@cshl.edu)
 
 ## Schedule
-1. **Programming in Python and Jupyter Notebooks.** (Justin) Wednesday, June 8, 4pm, Samet Conference Room
+1. **Python Programming and Jupyter Notebooks.** (Justin) Wednesday, June 8, 4pm, Samet Conference Room
 2. **Data Types and Flow Control.** (CiCi) Friday, June 10, 3pm, James Library
 3. **Datasets and Statistics.** (Amber) Friday, June 24, 3pm, James Library
 4. **Visualization.** (Julia) Monday, June 27, 3pm, James Library
