@@ -1,5 +1,7 @@
-Visualization (emtpy)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bharris12/URP_2021_Programming_Course/blob/main/lecture_4/4_visualization_empty.ipynb)
+## Pandas Lecture
 
-Visualization (filled)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bharris12/URP_2021_Programming_Course/blob/main/lecture_4/4_visualization.ipynb)
+This lecture gives an introduction to the pandas library, which is critical to analyzing tabular data in python.
+Also briefly go through several commonly used statistical tests
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbkinney/22e_urp/blob/main/lecture_4/4_dataframe_stat.ipynb)
+

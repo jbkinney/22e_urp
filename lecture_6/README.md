@@ -1,5 +1,6 @@
-## Genomics Lecture
+## Machine learning lecture
 
-This lecture gives an introduction to the Biopython and f-strings. It also goes over a little object oriented programming and reading documentation using the scRNAseq library scanpy
+This lecture gives an introduction to some machine learning methods in python. Including linear regression and short intro to deep learning.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bharris12/URP_2021_Programming_Course/blob/main/lecture_6/6_genomics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jbkinney/22e_urp/blob/main/lecture_6/6_machine_learning.ipynb)
+
