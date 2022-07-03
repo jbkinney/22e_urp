@@ -1,5 +1,7 @@
 __NOTES 2022/7/2__:
 
+There are two ways to use the lecture material on your own:
+
 ### A) 
 If you are using `python 3.8+` and prefer running the notebook in an iPython kernel locally, please use this notebook: 
 
