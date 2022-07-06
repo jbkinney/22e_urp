@@ -15,4 +15,4 @@ https://colab.research.google.com/github/jbkinney/22e_urp/blob/main/lecture_7/Le
 
 There will be issues with running Part 1 in Colab environment due to incompatibility in the graph interfaces, but screenshots of the GUI are displayed (Part 1 is view-only for the Colab version).
 
-Please add the two demo micrograph `mitosis_mod.tif` and `plant_cell.tiff` to your Google Drive before running it in Colab.
+Please add the two demo micrograph `mitosis_mod.tif` and `plant_cell.tiff` to your Google Drive before running the notebook in Colab.
